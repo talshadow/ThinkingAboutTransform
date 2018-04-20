@@ -1,8 +1,6 @@
 # ThinkingAboutTransform
-
 Let's go!
 Finish value generation:.....................2860057 Data size: 10000
-
 
 Custom generator:.............................478471
 value = a4:cc:fe:20:23:84
